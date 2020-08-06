@@ -53,7 +53,6 @@ a:hover {
 }
 
 .middle-container {
-  background-color: #ffffdd;
   padding: 100px 0;
 }
 
@@ -107,6 +106,12 @@ a:hover {
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+
+.bootstrap {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
 .footer-link {
