@@ -55,6 +55,7 @@ a:hover {
 
 .middle-container {
   padding: 100px 0;
+  background-color: #f4ebc1;
 }
 
 .bottom-container {
@@ -135,6 +136,7 @@ a:hover {
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
+  margin-left: 62px;
   text-decoration: none;
 }
 
