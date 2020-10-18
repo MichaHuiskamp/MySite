@@ -47,6 +47,17 @@ a:hover {
   color: #EAF6F6;
 }
 
+.linkfolio {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 3px;
+  text-decoration: none;
+}
+
+a.linkfolio:hover {
+  color: #EAF6F6;
+}
+
 .top-container {
   background-color: #EAF6F6;
   position: relative;
@@ -82,6 +93,7 @@ a:hover {
 .contact-me {
   text-align: center;
 }
+
 .copyright {
   color: #EAF6F6;
   font-size: 0.75em;
